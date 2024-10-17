@@ -1,4 +1,4 @@
-Creating a Professional Git README for a Senior .NET Developer
+CCreating a Professional Git README for a Senior .NET Developer
 Here's a basic Git README template that you can customize for your specific experience and skills:
 
 # About Me
